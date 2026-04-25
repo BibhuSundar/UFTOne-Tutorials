@@ -1,0 +1,121 @@
+1)	How a Function Returns Value?
+2)	How multiple values can be returned by a function?
+3)	How we can identify Text Box from a web Table which contains multiple Text Boxes having same properties?
+4)	Logic to reverse a string without using inbuilt function.
+5)	Difference between Keyword driven and data Driven Framework?
+6)	When we can call recovery scenario?
+7)	How to automate a resume?
+8)	There is a text box on a screen which is having single property text which is changing dynamically and how you will store that in OR?
+9)	Which all properties we use to identify an object in descriptive programming?
+====================================================================
+Q1> Below is a dictionary
+  Key  Value
+    1   a
+    1   b
+    a   1
+    a   2
+    a   3
+Which one is correct in Dictonary Object?
+2.If two checkboxes in one cell then how to find the second text box?
+3.what is the index of two check boxes?
+4.How to find same name from webtable?
+5.Write the code to find the dublicate first name from webtable?
+6.Emp and salary two tables.How to find which employee is having maximum salary? 
+7.What is the Difference between array and dictonary object?
+8.How many data tables are there in A1,A2,A3 Actions?-4
+9. Function A
+ d=B(5,7)
+  msgbox d
+    end function
+
+    Function B(a,b)
+    c=a+b
+   End function
+    Output of d?
+10. Check Q9. Is this code correct or not?
+11. What is the default value in fuction? 	
+12.How to return Value in function?
+====================================================================
+Automation testing
+1.	SQL joins in detail 
+2.	Questions on how to manipluate string using various functions 
+3.	When to go for automation 
+4.	explain instr and split
+Manual testing 
+1.	Explain waterfall, V and agile models 
+2.	Explain how agile is better than rest. compare the models 
+3.	Test strategy, test plan, test estimation techniques 
+4.	Negative testcases for telephone and monitor 
+5.	test process in agile
+6.	STLC in detail
+====================================================================
+1.	Define Arrray, how would you resize, find ubound?
+2.	Reverse a string without strreverse
+3.	Retreive data from excel using excel  objects
+4.	How to work upon object which is within webtable cell?
+5.	About your automation projects.
+6.	Define Data dictionary and how would use it?
+
+===============================================================
+1. As a automation tester what you have achieved in your carrier
+2. where you want to from here. what are your goals what you want to achieve as a automation tester now
+3. what challenges you have faced in automation testing.
+4. have you ever designed a framework. what factors Will you consider while designing a framework
+5. how will you decide which OR approach to use
+6. how many ways are there to handle a excel. which one is better and why
+7. can you pass values to a sub. if yes then how
+8. action is Better or function. give me 5 difference between two
+9. give 5 difference between array and dictionary object
+10. give practical example where you have used dictionary object and why you preffered dictionary object over array
+11. why qtp is better tool than other testing tools in market
+12. how will you filter out special characters from a string
+managerial round
+1. how will you handle a calendar control in automation
+2. how will you capture tool tip of a link
+3. how will you count number of words in string "i am working in bnp"
+4. what are the challenges you have faced as a automation tester from a manual tester
+5. can you work or create scripts using vbscript without using qtp
+6. if I put in a project and tell you to automate what information you will ask for
+
+================================================
+<QTP+ Selenium>
+
+1. How do you define a Framework? Does creation of Framework depend on the Application?If Application is not provided to you will you be able to design a Framework? Can you make it resuable Framework?
+2. Question on Selenium.
+   2.1.What are the various version of Selenium available in the market?
+   2.2.Syntax to launch Application in a patricular browser using Selenium? Does selenium handle Window pop ups?
+In continuation to the above question
+   2.3 What if unexpected pop up appears. How will you handle it in Selenium and QTP?
+   2.4 Suggest some other way other than Recovery Scenario to handle unexpected pop ups 
+   2.5 If you know the point at where the Window pop up appears how will you handle it in QTP?
+3.How will you close the Window pop up using Description.Create Object? 
+4.Suppose you have 30,000 records in Excel Sheet how will you fetch a patricular record without using For Loops?Like fetching the 999th record in a file containing 1000 records?
+
+================================================
+1. Get all file names from one folder and then one sub folder
+2. There are diff elements in array, sort it or get the particular value from that array
+3. Swap two “raj” n “saurab” without 3rd variable n now use temp variable an swap it.
+4. Dictionary use and where…to use …n why access is faster of dictionary..
+5. How a function can return multiple values?
+=================================================
+•	How to instantiate a class? What does NEW keyword mean? Any work on Classes 
+•	How to dynamically load Library files and OR?
+•	Can we write a statement like this? array a = Array () Will this throw an error? What’s the upper bound of this array? 
+	Dim a(2); Redim a(5); Will these 2 statement throw any errors? 
+•	Datatypes
+•	Date functions
+•	String functions
+•	Difference between sub procedure and functions
+•	Scope of variable within functions
+•	ByRef and ByVal concept, which is the default one if neither, is given in the argument list. - ByRef
+•	What are the different ways to make a variable global if you have multiple actions?
+•	Reporter.Report event parameters, can screenshot be taken for specific object or only entire screen.
+•	How to erase/clear an array?
+•	What are the methods to create a connection string? Ans: udl file
+•	Error handling mechanism; how to start and stop and clear error handling?
+•	What’s the difference between each ordinal identifier especially index and location
+•	Explain CreateObject argument list?
+•	Excel as a database to fetch multiple records; how to iterate through multiple records.
+•	What is HTML DOM. How do you access it?
+•	Different ways of Descriptive programming. 2 ways, inline and description.create object
+•	Object Identification in QTP
